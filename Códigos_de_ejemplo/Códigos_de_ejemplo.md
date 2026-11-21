@@ -2,17 +2,24 @@
 
 Colección de sketches básicos para usar distintos sensores y módulos con una placa **Arduino UNO**. Cada ejemplo incluye la conexión, el código y notas de uso. Al final hay un apartado de [referencias](#referencias) con las fuentes consultadas.
 
-## Contenido
+---
 
-1. [Sensor de nivel de agua](#1-sensor-de-nivel-de-agua)
-2. [Sensor infrarrojo HW-201](#2-sensor-infrarrojo-hw-201)
-3. [Sensor ultrasónico HC-SR04](#3-sensor-ultrasónico-hc-sr04)
-4. [Display de 7 segmentos](#4-display-de-7-segmentos)
-5. [Sensor de sonido KY-037](#5-sensor-de-sonido-ky-037)
-6. [Fotorresistencia LDR](#6-fotorresistencia-ldr)
-7. [Sensor DHT11](#7-sensor-dht11)
-8. [LED RGB KY-016](#8-led-rgb-ky-016)
-- [Referencias](#referencias)
+## Índice de archivos
+
+| Archivo | Componente | Descripción |
+| :--- | :--- | :--- |
+| [`Display_ejemplo.ino`](./Display_ejemplo.ino) | Display de 7 segmentos | Muestra un conteo secuencial del 0 al 9 en un display de 1 dígito. |
+| [`Fotorresistencia_LDR_ejemplo.ino`](./Fotorresistencia_LDR_ejemplo.ino) | Fotorresistencia (LDR) | Mide el nivel de luminosidad ambiental mediante una entrada analógica. |
+| [`RGB_ejemplo.ino`](./RGB_ejemplo.ino) | LED RGB | Controla el encendido y la combinación de colores (rojo, verde y azul). |
+| [`Sensor_de_nivel_agua_ejemplo.ino`](./Sensor_de_nivel_agua_ejemplo.ino) | Sensor de nivel de agua (3 pines) | Lee el nivel de agua en contacto con el sensor mediante señal analógica. |
+| [`Sensor_de_sonido_ejemplo.ino`](./Sensor_de_sonido_ejemplo.ino) | Sensor de sonido (KY-037) | Detecta picos de sonido (salida digital) y mide su intensidad (salida analógica). |
+| [`Sensor_de_temperatura_ejemplo.ino`](./Sensor_de_temperatura_ejemplo.ino) | Sensor de temperatura | Obtiene lecturas de temperatura ambiente y las envía al monitor serie. |
+| [`Sensor_infrarrojo_ejemplo.ino`](./Sensor_infrarrojo_ejemplo.ino) | Sensor infrarrojo (HW-201) | Detecta la presencia de obstáculos cercanos mediante una señal digital. |
+| [`Sensor_ultrasonico_ejemplo.ino`](./Sensor_ultrasonico_ejemplo.ino) | Sensor ultrasónico (HC-SR04) | Calcula la distancia a un objeto en centímetros usando pulsos ultrasónicos. |
+| [Referencias](#referencias) |
+
+
+---
 
 ## Requisitos generales
 
