@@ -16,7 +16,7 @@ Colección de sketches básicos para usar distintos sensores y módulos con una 
 | [`Sensor_de_temperatura_ejemplo.ino`](./Sensor_de_temperatura_ejemplo.ino) | Sensor de temperatura | Obtiene lecturas de temperatura ambiente y las envía al monitor serie. |
 | [`Sensor_infrarrojo_ejemplo.ino`](./Sensor_infrarrojo_ejemplo.ino) | Sensor infrarrojo (HW-201) | Detecta la presencia de obstáculos cercanos mediante una señal digital. |
 | [`Sensor_ultrasonico_ejemplo.ino`](./Sensor_ultrasonico_ejemplo.ino) | Sensor ultrasónico (HC-SR04) | Calcula la distancia a un objeto en centímetros usando pulsos ultrasónicos. |
-| [Referencias](#referencias) |
+| [Referencias](#referencias) |[Referencias](https://www.youtube.com/watch?v=oYc0Anh0yq4)|[Referencias](https://www.youtube.com/watch?v=A9hCzjBc7Q4)|
 
 
 ---
