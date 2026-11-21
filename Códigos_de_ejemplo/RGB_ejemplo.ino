@@ -1,6 +1,6 @@
-const int PIN_R = 9;
+const int PIN_R = 11;
 const int PIN_G = 10;
-const int PIN_B = 11;
+const int PIN_B = 9;
 
 // Valores de 0 (apagado) a 255 (maximo brillo)
 void setColor(int r, int g, int b) {
