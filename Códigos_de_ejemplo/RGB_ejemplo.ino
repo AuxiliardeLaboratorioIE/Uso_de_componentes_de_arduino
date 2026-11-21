@@ -2,6 +2,18 @@ const int PIN_R = 11;
 const int PIN_G = 10;
 const int PIN_B = 9;
 
+
+
+/*
+
+Antes de ejecutar el codigo asegurarse siempre de tener la conexion correcta como se indica 
+en: https://github.com/AuxiliardeLaboratorioIE/Uso_de_componentes_de_arduino/blob/main/Conexiones/Conexiones.md
+O preguntado al encargado de la materia / practica.
+
+*/
+
+
+
 // Valores de 0 (apagado) a 255 (maximo brillo)
 void setColor(int r, int g, int b) {
   analogWrite(PIN_R, r);
