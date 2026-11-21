@@ -1,6 +1,14 @@
 // Segmentos: a b c d e f g  -> pines 2..8
 const int segPins[7] = {2, 3, 4, 5, 6, 7, 8};
 
+/*
+
+Antes de ejecutar el codigo asegurarse siempre de tener la conexion correcta como se indica 
+en: https://github.com/AuxiliardeLaboratorioIE/Uso_de_componentes_de_arduino/blob/main/Conexiones/Conexiones.md
+O preguntado al encargado de la materia / practica.
+
+*/
+
 // Patrones 0-9 (1 = encendido), cátodo común
 const byte digitos[10][7] = {
   {1,1,1,1,1,1,0}, // 0
