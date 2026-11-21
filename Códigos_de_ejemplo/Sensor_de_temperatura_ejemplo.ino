@@ -3,6 +3,17 @@
 #define DHTPIN  2
 #define DHTTYPE DHT11
 
+
+
+/*
+
+Antes de ejecutar el codigo asegurarse siempre de tener la conexion correcta como se indica 
+en: https://github.com/AuxiliardeLaboratorioIE/Uso_de_componentes_de_arduino/blob/main/Conexiones/Conexiones.md
+O preguntado al encargado de la materia / practica.
+
+*/
+
+
 DHT dht(DHTPIN, DHTTYPE);
 
 void setup() {
