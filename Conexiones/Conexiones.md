@@ -12,6 +12,7 @@ Esta carpeta reúne los esquemas y diagramas de conexión (`.png`) necesarios pa
 | Sensor infrarrojo (HW-201) | [`Conexion_infrarrojo.png`](./Conexion_infrarrojo.png) | [`Sensor_infrarrojo_ejemplo.ino`](../Códigos_de_ejemplo/Sensor_infrarrojo_ejemplo.ino) |
 | Sensor de nivel de agua | [`Conexion_nivel_agua.png`](./Conexion_nivel_agua.png) | [`Sensor_de_nivel_agua_ejemplo.ino`](../Códigos_de_ejemplo/Sensor_de_nivel_agua_ejemplo.ino) |
 | Sensor ultrasónico (HC-SR04) | [`Conexion_Ultrasonico.png`](./Conexion_Ultrasonico.png) | [`Sensor_ultrasonico_ejemplo.ino`](../Códigos_de_ejemplo/Sensor_ultrasonico_ejemplo.ino) |
+| Display de 7 segmentos | [`Conexion_Display.png`](./Conexion_Display.png) | [`Display_ejemplo.ino`](../Códigos_de_ejemplo/Display_ejemplo.ino) |
 
 ---
 
@@ -34,6 +35,10 @@ Esta carpeta reúne los esquemas y diagramas de conexión (`.png`) necesarios pa
 
 ### 6. Sensor ultrasónico (HC-SR04)
 ![Diagrama de conexión Sensor Ultrasónico](./Conexion_Ultrasonico.png)
+
+### 7. Display de 7 segmentos
+
+![Diagrama de conexión Display](./Conexion_Display.png)
 
 ---
 
