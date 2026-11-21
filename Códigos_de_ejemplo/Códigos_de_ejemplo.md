@@ -74,6 +74,7 @@ Los sketches de este documento se escribieron a partir de la información de las
 - Instructables (Lisleapex), *DHT11 Temperature and Humidity Sensor With Arduino*: https://instructables.com/DHT11-Temperature-and-Humidity-Sensor-With-Arduino
 - Librería DHT sensor library (Adafruit): https://github.com/adafruit/DHT-sensor-library
 - Librería Adafruit Unified Sensor: https://github.com/adafruit/Adafruit_Sensor
+- Het-Pro: https://hetpro-store.com/TUTORIALES/sensor-dht11/?srsltid=AYCX9vIM5svYXyoNUdJkuz9BE2fzQt7eu3uxe0Qo6xKQmHJ2_TUBdhDW
 
 ### LED RGB KY-016
 - Joy-IT, página del KY-016: https://sensorkit.joy-it.net/en/sensors/ky-016
