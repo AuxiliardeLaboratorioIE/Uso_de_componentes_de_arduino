@@ -1,6 +1,6 @@
 # Códigos de ejemplo para Arduino UNO
 
-Colección de sketches básicos para usar distintos sensores y módulos con una placa **Arduino UNO**. Cada ejemplo incluye el código y notas de uso. Antes de poner en practica cada ejemplo, revisar la carpeta de [Conexiones](./conexiones) para evitar problemas. Al final hay un apartado de [referencias](#referencias) con las fuentes consultadas.
+Colección de sketches básicos para usar distintos sensores y módulos con una placa **Arduino UNO**. Cada ejemplo incluye el código y notas de uso. Antes de poner en practica cada ejemplo, revisar la carpeta de [Conexiones](Conexiones/Conexiones.md) para evitar problemas con el cableado. Al final hay un apartado de [referencias](#referencias) con las fuentes consultadas.
 
 ---
 
