@@ -14,6 +14,7 @@ Esta carpeta reúne los esquemas y diagramas de conexión (`.png`) necesarios pa
 | Sensor de temperatura y humedad (DHT11) | [`Sensor_de_temperatura_ejemplo.ino`](../Códigos_de_ejemplo/Sensor_de_temperatura_ejemplo.ino) | [`Conexion_DHT_11.png`](../Conexiones/Conexion_DHT_11.png) | Obtiene lecturas de temperatura ambiente y las envía al monitor serie. |
 | Sensor infrarrojo (HW-201) | [`Sensor_infrarrojo_ejemplo.ino`](../Códigos_de_ejemplo/Sensor_infrarrojo_ejemplo.ino) | [`Conexion_infrarrojo.png`](../Conexiones/Conexion_infrarrojo.png) | Detecta la presencia de obstáculos cercanos mediante una señal digital. |
 | Sensor ultrasónico (HC-SR04) | [`Sensor_ultrasonico_ejemplo.ino`](../Códigos_de_ejemplo/Sensor_ultrasonico_ejemplo.ino) | [`Conexion_Ultrasonico.png`](../Conexiones/Conexion_Ultrasonico.png) | Calcula la distancia a un objeto en centímetros usando pulsos ultrasónicos. |
+| Pulsador/Boton | [`Boton_ejemplo.ino`](C%C3%B3digos_de_ejemplo/Boton_ejemplo.ino) | [`Conexion_Boton.png`](../Conexiones/Conexion_Boton.png) |Detecta si un boton es pulsado|
 | [Referencias](../Referencias.md) | [Referencias](https://www.youtube.com/watch?v=oYc0Anh0yq4) | [Referencias](https://www.youtube.com/watch?v=scSX0DFUzKc) | [Referencias](https://www.youtube.com/watch?v=A9hCzjBc7Q4) |
 
 
@@ -55,3 +56,6 @@ Esta carpeta reúne los esquemas y diagramas de conexión (`.png`) necesarios pa
 * **Desconecta la alimentación:** Realiza o modifica todas las conexiones con el cable USB desconectado de la placa Arduino UNO.
 * **Verifica la polaridad:** Asegúrate de no invertir los pines de alimentación (`5V` / `VCC` y `GND`), ya que esto puede dañar permanentemente los módulos.
 * **Resistencias de protección:** Utiliza siempre las resistencias indicadas en cada diagrama (por ejemplo, en divisores de voltaje con fotorresistencias o en LEDs) para evitar cortocircuitos o lecturas erróneas.
+
+
+# [⬅️ Volver al inicio](../README.md)
