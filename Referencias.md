@@ -53,4 +53,4 @@ Los sketches e imagenes de este documento se realizaron a partir de la informaci
 
 
 
-#[Regresar al inicio](main)
+# [Regresar al inicio](../)
