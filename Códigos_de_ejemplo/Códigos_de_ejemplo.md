@@ -9,19 +9,20 @@ Para mas informacion revisar el documento [referencias](../Referencias.md) con l
 
 ---
 
-## Índice de archivos
 
-| Archivo | Componente | Descripción |
-| :--- | :--- | :--- |
-| [`Display_ejemplo.ino`](./Display_ejemplo.ino) | Display de 7 segmentos | Muestra un conteo secuencial del 0 al 9 en un display de 1 dígito. |
-| [`Fotorresistencia_LDR_ejemplo.ino`](./Fotorresistencia_LDR_ejemplo.ino) | Fotorresistencia (LDR) | Mide el nivel de luminosidad ambiental mediante una entrada analógica. |
-| [`RGB_ejemplo.ino`](./RGB_ejemplo.ino) | LED RGB | Controla el encendido y la combinación de colores (rojo, verde y azul). |
-| [`Sensor_de_nivel_agua_ejemplo.ino`](./Sensor_de_nivel_agua_ejemplo.ino) | Sensor de nivel de agua (3 pines) | Lee el nivel de agua en contacto con el sensor mediante señal analógica. |
-| [`Sensor_de_sonido_ejemplo.ino`](./Sensor_de_sonido_ejemplo.ino) | Sensor de sonido (KY-037) | Detecta picos de sonido (salida digital) y mide su intensidad (salida analógica). |
-| [`Sensor_de_temperatura_ejemplo.ino`](./Sensor_de_temperatura_ejemplo.ino) | Sensor de temperatura | Obtiene lecturas de temperatura ambiente y las envía al monitor serie. |
-| [`Sensor_infrarrojo_ejemplo.ino`](./Sensor_infrarrojo_ejemplo.ino) | Sensor infrarrojo (HW-201) | Detecta la presencia de obstáculos cercanos mediante una señal digital. |
-| [`Sensor_ultrasonico_ejemplo.ino`](./Sensor_ultrasonico_ejemplo.ino) | Sensor ultrasónico (HC-SR04) | Calcula la distancia a un objeto en centímetros usando pulsos ultrasónicos. |
-| [Referencias](#referencias) |[Referencias](https://www.youtube.com/watch?v=oYc0Anh0yq4)|[Referencias](https://www.youtube.com/watch?v=A9hCzjBc7Q4)|
+## Índice de componentes, códigos y diagramas
+
+| Componente | Código de ejemplo | Diagrama de conexión | Descripción |
+| :--- | :--- | :--- | :--- |
+| Display de 7 segmentos | [`Display_ejemplo.ino`](../Códigos_de_ejemplo/Display_ejemplo.ino) | [`Conexion_Display.png`](../Conexiones/Conexion_Display.png) | Muestra un conteo secuencial del 0 al 9 en un display de 1 dígito. |
+| Fotorresistencia (LDR) | [`Fotorresistencia_LDR_ejemplo.ino`](../Códigos_de_ejemplo/Fotorresistencia_LDR_ejemplo.ino) |  <br> [`Conexion_fotorresistencia.png`](../Conexiones/Conexion_fotorresistencia.png) | Mide el nivel de luminosidad ambiental mediante una entrada analógica. |
+| LED RGB | [`RGB_ejemplo.ino`](../Códigos_de_ejemplo/RGB_ejemplo.ino) | [`Conexion_LDR.png`](../Conexiones/Conexion_LDR.png) | Controla el encendido y la combinación de colores (rojo, verde y azul). |
+| Sensor de nivel de agua (3 pines) | [`Sensor_de_nivel_agua_ejemplo.ino`](../Códigos_de_ejemplo/Sensor_de_nivel_agua_ejemplo.ino) | [`Conexion_nivel_agua.png`](../Conexiones/Conexion_nivel_agua.png) | Lee el nivel de agua en contacto con el sensor mediante señal analógica. |
+| Sensor de sonido (KY-037) | [`Sensor_de_sonido_ejemplo.ino`](../Códigos_de_ejemplo/Sensor_de_sonido_ejemplo.ino) | [`Conexion_Sonido.png`](../Conexiones/Conexion_Sonido.png) | Detecta picos de sonido (salida digital) y mide su intensidad (salida analógica). |
+| Sensor de temperatura y humedad (DHT11) | [`Sensor_de_temperatura_ejemplo.ino`](../Códigos_de_ejemplo/Sensor_de_temperatura_ejemplo.ino) | [`Conexion_DHT_11.png`](../Conexiones/Conexion_DHT_11.png) | Obtiene lecturas de temperatura ambiente y las envía al monitor serie. |
+| Sensor infrarrojo (HW-201) | [`Sensor_infrarrojo_ejemplo.ino`](../Códigos_de_ejemplo/Sensor_infrarrojo_ejemplo.ino) | [`Conexion_infrarrojo.png`](../Conexiones/Conexion_infrarrojo.png) | Detecta la presencia de obstáculos cercanos mediante una señal digital. |
+| Sensor ultrasónico (HC-SR04) | [`Sensor_ultrasonico_ejemplo.ino`](../Códigos_de_ejemplo/Sensor_ultrasonico_ejemplo.ino) | [`Conexion_Ultrasonico.png`](../Conexiones/Conexion_Ultrasonico.png) | Calcula la distancia a un objeto en centímetros usando pulsos ultrasónicos. |
+| [Referencias](../Referencias.md) | [Referencias](https://www.youtube.com/watch?v=oYc0Anh0yq4) | [Referencias](https://www.youtube.com/watch?v=scSX0DFUzKc) | [Referencias](https://www.youtube.com/watch?v=A9hCzjBc7Q4) |
 
 
 ---
