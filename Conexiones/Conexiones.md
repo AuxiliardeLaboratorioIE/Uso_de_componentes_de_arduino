@@ -44,6 +44,10 @@ Esta carpeta reúne los esquemas y diagramas de conexión (`.png`) necesarios pa
 
 ![Diagrama de conexión Display](./Conexion_Display.png)
 
+### 8. Sensor de Sonido
+
+![Diagrama de conexión Sensor de Sonido](./Conexion_Sonido.png)
+
 ---
 
 ## Recomendaciones generales antes de energizar
