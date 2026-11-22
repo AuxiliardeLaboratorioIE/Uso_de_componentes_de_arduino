@@ -1,6 +1,14 @@
 const int PIN_BOTON = 4;
 const unsigned long TIEMPO_REBOTE = 50;  // ms
 
+/*
+
+Antes de ejecutar el codigo asegurarse siempre de tener la conexion correcta como se indica 
+en: https://github.com/AuxiliardeLaboratorioIE/Uso_de_componentes_de_arduino/blob/main/Conexiones/Conexiones.md
+O preguntado al encargado de la materia / practica.
+
+*/
+
 int estadoAnterior = HIGH;       // última lectura estable
 int ultimaLectura  = HIGH;       // última lectura cruda
 unsigned long ultimoCambio = 0;  // momento del último cambio
