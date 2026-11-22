@@ -11,11 +11,11 @@ Repositorio con sketches de ejemplo y diagramas de conexión para usar sensores 
 | Sensor de nivel de agua (3 pines) | [`Sensor_de_nivel_agua_ejemplo.ino`](C%C3%B3digos_de_ejemplo/Sensor_de_nivel_agua_ejemplo.ino) | [`Conexion_nivel_agua.png`](Conexiones/Conexion_nivel_agua.png) |
 | Sensor infrarrojo HW-201 | [`Sensor_infrarrojo_ejemplo.ino`](C%C3%B3digos_de_ejemplo/Sensor_infrarrojo_ejemplo.ino) | [`Conexion_infrarrojo.png`](Conexiones/Conexion_infrarrojo.png) |
 | Sensor ultrasónico HC-SR04 | [`Sensor_ultrasonico_ejemplo.ino`](C%C3%B3digos_de_ejemplo/Sensor_ultrasonico_ejemplo.ino) | [`Conexion_Ultrasonico.png`](Conexiones/Conexion_Ultrasonico.png) |
-| Display de 7 segmentos | [`Display_ejemplo.ino`](C%C3%B3digos_de_ejemplo/Display_ejemplo.ino) | Ver [`Conexion_Display.png`](../Conexiones/Conexion_Display.png) |
+| Display de 7 segmentos | [`Display_ejemplo.ino`](C%C3%B3digos_de_ejemplo/Display_ejemplo.ino) | [`Conexion_Display.png`](../Conexiones/Conexion_Display.png) |
 | Sensor de sonido KY-037 | [`Sensor_de_sonido_ejemplo.ino`](C%C3%B3digos_de_ejemplo/Sensor_de_sonido_ejemplo.ino) | [`Conexion_Sonido.png`](Conexiones/Conexion_Sonido.png) |
 | Fotorresistencia (LDR) | [`Fotorresistencia_LDR_ejemplo.ino`](C%C3%B3digos_de_ejemplo/Fotorresistencia_LDR_ejemplo.ino) | [`Conexion_LDR.png`](Conexiones/Conexion_LDR.png), [`Conexion_fotorresistencia.png`](Conexiones/Conexion_fotorresistencia.png) |
 | Sensor de temperatura y humedad DHT11 | [`Sensor_de_temperatura_ejemplo.ino`](C%C3%B3digos_de_ejemplo/Sensor_de_temperatura_ejemplo.ino) | [`Conexion_DHT_11.png`](Conexiones/Conexion_DHT_11.png) |
-| LED RGB KY-016 | [`RGB_ejemplo.ino`](C%C3%B3digos_de_ejemplo/RGB_ejemplo.ino) | Ver [`Códigos_de_ejemplo.md`](../Conexiones/Conexion_RGB.png) |
+| LED RGB KY-016 | [`RGB_ejemplo.ino`](C%C3%B3digos_de_ejemplo/RGB_ejemplo.ino) | [`Códigos_de_ejemplo.md`](../Conexiones/Conexion_RGB.png) |
 
 ## Estructura del repositorio
 
