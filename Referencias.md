@@ -53,4 +53,4 @@ Los sketches e imagenes de este documento se realizaron a partir de la informaci
 
 
 
-# [⬅️ Volver al inicio](main/README.md)
+# [⬅️ Volver al inicio](./README.md)
