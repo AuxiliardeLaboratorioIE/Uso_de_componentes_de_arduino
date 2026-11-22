@@ -50,3 +50,7 @@ Los sketches e imagenes de este documento se realizaron a partir de la informaci
 - Cirkit Designer, *RGB LED module*: https://docs.cirkitdesigner.com/component/8096b92c-a292-4fb8-bff9-01b8aa15e0a6/rgb-led-module
 - Cirkit Designer, *KY-016 RGB LED module (AZDelivery)*: https://docs.cirkitdesigner.com/component/27806551-b15f-454a-9228-e657ff1f886c/led-module-rgb
 - Johan_Ha, *KY-016 Straight Onto UNO* (Hackster): https://hackster.io/Johan_Ha/ky-016-straight-onto-uno-bb9748
+
+
+
+#[Regresar al inicio](main)
