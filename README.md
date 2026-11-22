@@ -15,13 +15,14 @@ Repositorio con sketches de ejemplo y diagramas de conexión para usar sensores 
 | Sensor de sonido KY-037 | [`Sensor_de_sonido_ejemplo.ino`](C%C3%B3digos_de_ejemplo/Sensor_de_sonido_ejemplo.ino) | [`Conexion_Sonido.png`](Conexiones/Conexion_Sonido.png) |
 | Fotorresistencia (LDR) | [`Fotorresistencia_LDR_ejemplo.ino`](C%C3%B3digos_de_ejemplo/Fotorresistencia_LDR_ejemplo.ino) | [`Conexion_LDR.png`](Conexiones/Conexion_LDR.png), [`Conexion_fotorresistencia.png`](Conexiones/Conexion_fotorresistencia.png) |
 | Sensor de temperatura y humedad DHT11 | [`Sensor_de_temperatura_ejemplo.ino`](C%C3%B3digos_de_ejemplo/Sensor_de_temperatura_ejemplo.ino) | [`Conexion_DHT_11.png`](Conexiones/Conexion_DHT_11.png) |
-| LED RGB KY-016 | [`RGB_ejemplo.ino`](C%C3%B3digos_de_ejemplo/RGB_ejemplo.ino) | [`Códigos_de_ejemplo.md`](../Conexiones/Conexion_RGB.png) |
-
+| LED RGB KY-016 | [`RGB_ejemplo.ino`](C%C3%B3digos_de_ejemplo/RGB_ejemplo.ino) | [`Conexion_RGB.png`](../Conexiones/Conexion_RGB.png) |
+| Pulsador/Boton | [`Boton_ejemplo.ino`](C%C3%B3digos_de_ejemplo/Boton_ejemplo.ino) | [`Conexion_Boton.png`](../Conexiones/Conexion_Boton.png) |
 ## Estructura del repositorio
 
 ```text
 .
 ├── Conexiones/
+|   ├── Conexion_Boton.png
 │   ├── Conexion_DHT_11.png
 │   ├── Conexion_LDR.png
 │   ├── Conexion_Sonido.png
@@ -31,6 +32,7 @@ Repositorio con sketches de ejemplo y diagramas de conexión para usar sensores 
 │   ├── Conexion_nivel_agua.png
 │   └── Conexiones.md
 ├── Códigos_de_ejemplo/
+|   ├── Boton_ejemplo.ino
 │   ├── Códigos_de_ejemplo.md
 │   ├── Display_ejemplo.ino
 │   ├── Fotorresistencia_LDR_ejemplo.ino
